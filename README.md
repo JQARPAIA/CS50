@@ -1,2 +1,3 @@
-# CS50
-My repository of CS50's web developing with python and javascript course 
+# Project 0
+
+Web Programming with Python and JavaScript
